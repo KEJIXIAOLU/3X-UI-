@@ -6,7 +6,7 @@
 本文带你在 3X-UI 面板上完成一次完整部署。
 底层基于 Xray，系统推荐 Debian 12。
 
-本教程目标：
+### 本教程目标：
 
 小白也能成功部署
 理解端口放行的真实原理
@@ -14,8 +14,10 @@
 ## 一、服务器准备
 
 六六云服务器（双ISP，支持tiktok）：https://kjxl.cc/666clouds
-全站九折优惠：XL666
-年付七折优惠：year30off
+
+❤️全站九折优惠：XL666
+
+❤️年付七折优惠：year30off
 
 LightNode 服务器（按流量计费）：https://kjxl.cc/LightNode
 
