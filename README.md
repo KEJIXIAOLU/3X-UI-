@@ -13,13 +13,13 @@
 避免 “ufw 无效” 的常见坑
 ## 一、服务器准备
 
-六六云服务器：https://kjxl.cc/666clouds（双ISP，支持tiktok）
+六六云服务器（双ISP，支持tiktok）：https://kjxl.cc/666clouds
 全站九折优惠：XL666
 年付七折优惠：year30off
 
-LightNode 服务器：https://kjxl.cc/LightNode（按流量计费）
+LightNode 服务器（按流量计费）：https://kjxl.cc/LightNode
 
-Vultr 服务器：https://kjxl.cc/vultr （按时计费，最低6$/月。）
+Vultr 服务器（按时计费，最低5$/月）：https://kjxl.cc/vultr 
 
 ### 准备一台云服务器：
 
