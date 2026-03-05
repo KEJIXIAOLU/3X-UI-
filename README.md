@@ -6,6 +6,8 @@
 本文带你在 3X-UI 面板上完成一次完整部署。
 底层基于 Xray，系统推荐 Debian 12。
 
+3X-UI开源项目地址:https://github.com/MHSanaei/3x-ui
+
 ### 本教程目标：
 
 小白也能成功部署
@@ -129,6 +131,20 @@ Vultr 服务器（按时计费，最低5$/月）：https://kjxl.cc/vultr
 先保证你一定能连上。
 当你能稳定连接后，再升级高级玩法。
 
+## 六、客户端下载
+
+v2rayNG【需要最新版本】
+
+Windows（v2rayN）：https://github.com/2dust/v2rayN/releases/tag/6.23
+
+Android（v2rayNG）：https://github.com/2dust/v2rayNG/releases/tag/1.8.5
+
+IOS（shadowrocket）：https://apps.apple.com/app/shadowrocket/id932747118
+
+### SSH下载
+下载并安装 FinalShell SSH 工具
+  Windows、macOS、Linux 版下载地址：https://www.hostbuf.com/t/988.html
+    
 ## 核心总结
 
 端口不通，只可能是三件事：
